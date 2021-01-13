@@ -1,1 +1,2 @@
-# animated-bassoon
+# Thumbnail preview
+### using Javascript
