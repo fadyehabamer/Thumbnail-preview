@@ -1,2 +1,3 @@
 # Thumbnail preview
-### using Javascript
+### using 
+* Javascript
